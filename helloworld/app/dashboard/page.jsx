@@ -3,7 +3,7 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <div>
-      <h1>My First App in Next JS.</h1>
+      <h1>In dasboard</h1>
     </div>
   )
 }
